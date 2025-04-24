@@ -1,0 +1,10 @@
+.header{
+    background-color: rgb(15, 15, 120);
+    display: flex;
+}
+.header span{
+    color: aliceblue;
+    padding: 5px;
+    text-decoration: none;
+
+}
